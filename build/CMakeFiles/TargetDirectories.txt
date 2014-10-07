@@ -1,0 +1,1 @@
+/home/melnik/projects/nutty/neditor/build/CMakeFiles/neditor.dir

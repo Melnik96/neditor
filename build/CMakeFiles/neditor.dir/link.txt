@@ -1,0 +1,1 @@
+/usr/bin/cc  -g    CMakeFiles/neditor.dir/source/main.o  -o neditor  -L/usr/local/lib -rdynamic /usr/local/lib/libngine_core.so /usr/local/lib/libngine_scenegraph.so /usr/local/lib/libngine_render.so /usr/local/lib/libngine_import.so -lpthread -lglfw -Wl,-rpath,/usr/local/lib 
